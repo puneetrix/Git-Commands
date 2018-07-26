@@ -1,0 +1,6 @@
+		1.) git init
+2.) git status
+3.) git add filename/.
+		4.) git remote add origin link
+5.) git commit -m "message"
+6.) git push origin master
